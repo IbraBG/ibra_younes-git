@@ -1,3 +1,3 @@
-print("Pytho","c'est parti")
-print(2026)
-print(10+5)
+prenom = input("Comment t'appelle tu ?")
+age = input("Quelle âge as-tu ?")
+print(f"Bonjour {prenom}, le savais tu ? Tu as {age}")
